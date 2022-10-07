@@ -8,7 +8,8 @@ DateTime==4.3
 distlib==0.3.3 
 excel==1.0.0 
 filelock==3.4.0 
-Flask==2.0.3 
+Flask==2.0.3
+Flask-Cors==3.0.8
 Flask-Compress==1.11 
 Flask-RESTful==0.3.8 
 Flask-SQLAlchemy==2.4.3 
